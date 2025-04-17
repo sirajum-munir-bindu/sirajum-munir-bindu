@@ -24,3 +24,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirajum-munir-bindu&show_icons=true&locale=en" alt="sirajum-munir-bindu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirajum-munir-bindu&" alt="sirajum-munir-bindu" /></p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sirajum-munir-bindu/sirajum-munir-bindu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sirajum-munir-bindu/sirajum-munir-bindu/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sirajum-munir-bindu/sirajum-munir-bindu/output/github-snake.svg" />
+</picture>
