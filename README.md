@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/sirajum-munir-b2862b2a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sirajum-munir-b2862b2a3" height="30" width="40" /></a>
+<a href="https://linkedin.com/smb-r232e15g008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smb-r232e15g008" height="30" width="40" /></a>
 <!-- <a href="https://kaggle.com/sirajummunir24232e14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sirajummunir24232e14" height="30" width="40" /></a> -->
 <a href="https://fb.com/sirajummunir.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sirajummunir.13" height="30" width="40" /></a>
 <a href="https://instagram.com/smbindu_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smbindu_13" height="30" width="40" /></a>
